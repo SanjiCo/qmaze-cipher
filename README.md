@@ -1,6 +1,7 @@
-[![PyPI version](https://badge.fury.io/py/qmaze-cipher.svg)](https://pypi.org/project/qmaze-cipher/)
-
 # QMazeCipher
+
+[![PyPI version](https://badge.fury.io/py/qmaze-cipher.svg)](https://pypi.org/project/qmaze-cipher/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 QMazeCipher, kuantum bilgisayarlara dayanıklı, kaotik sistem tabanlı bir şifreleme algoritmasıdır. Logistic map ve dinamik hash tabanlı blok permütasyonu ile geleneksel frekans analizlerini boşar. Python ile yazılmıştır ve her türlü metni güvenli bir şekilde şifrelemek için uygundur.
 
